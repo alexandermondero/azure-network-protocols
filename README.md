@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://estradaci.com/wp-content/uploads/2018/05/Azure-Logo-1024x752.jpg" alt="Microsoft Azure logo"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.png" alt="Microsoft Azure logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>

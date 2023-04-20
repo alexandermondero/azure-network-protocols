@@ -27,7 +27,7 @@ This tutorial explains how to block incoming network protocols through the Netwo
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/wcevEAI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0wwSVfF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here you can view and add inbound security rules. This allows you to view if traffic is allowed or denied throughout the network. You can also allow or deny different network protocols.

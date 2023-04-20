@@ -14,9 +14,10 @@ This tutorial explains how to block incoming network protocols through the Netwo
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
+- macOS (Able to connect to Windows 10 and Virtual Machines via Microsoft Remote Desktop)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Steps</h2>
 
 - Item 1
 - Item 2

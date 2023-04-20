@@ -3,7 +3,7 @@
 </p>
 
 <h1>Network Security Groups and Inspecting Network Protocols</h1>
-This tutorial explains how to block incoming network protocols through the Network Security Group in Azure and how to inspect those network protocols through a Windows virtual machine. <br />
+This tutorial explains how to view and change network traffic through the Network Security Group in Microsoft Azure. <br />
 
 
 <h2>Environments and Technologies Used</h2>

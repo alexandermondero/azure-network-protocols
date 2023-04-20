@@ -6,10 +6,6 @@
 This tutorial explains how to block incoming network protocols through the Network Security Group in Azure and how to inspect those network protocols through a Windows virtual machine. <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)

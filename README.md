@@ -2,8 +2,8 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.png" alt="Microsoft Azure logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Network Security Groups and Inspecting Network Protocols</h1>
+This tutorial explains how to block certain incoming network protocols through the Network Security Group in Azure. <br />
 
 
 <h2>Video Demonstration</h2>
@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/wcevEAI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here you can view and add inbound security rules. This allows you to view if traffic is allowed or denied throughout the network. You can also allow or deny different network protocols.
 </p>
 <br />
 

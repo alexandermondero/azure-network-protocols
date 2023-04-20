@@ -10,7 +10,6 @@ This tutorial explains how to block incoming network protocols through the Netwo
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 

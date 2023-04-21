@@ -22,7 +22,7 @@ This tutorial explains how to view and change network traffic through the Networ
 - Downloaded Wireshark to observe network traffic.
 - In Microsoft Azure added new inbound security rules in a network security group to deny all incoming ICMP traffic.
 - Viewed all ICMP traffic through virtual machine 1 in Wireshark.
-- 
+- Gained access to virtual machine 2's command line. This will allow SSH network traffic to be viewed.
 
 <h2>Installation Steps</h2>
 

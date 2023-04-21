@@ -18,11 +18,11 @@ This tutorial explains how to view and change network traffic through the Networ
 
 <h2>List of Steps</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create 2 virtual machines in Microsoft Azure. Virtual machine 1 was running Windows 10 and virtual machine 2 was running Ubuntu/Linux
+- Downloaded Wireshark to observe network traffic.
+- In Microsoft Azure added new inbound security rules in a network security group to deny all incoming ICMP traffic.
+- Viewed all ICMP traffic through virtual machine 1 in Wireshark.
+- 
 
 <h2>Installation Steps</h2>
 
